@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 0c502361cd261ea468daa2ce55886e1e, type: 2}
+  m_LightingDataAsset: {fileID: 112000000, guid: 8d49c59da327a154895ff3bec0139aec, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 7218643b44bb9e94f9d72173052c8093, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -370,7 +370,7 @@ MonoBehaviour:
     camera:
       camera: 0
   m_ProxyVolume: {fileID: 0}
-  m_BakedTexture: {fileID: 8900000, guid: 0dd7c5df9dda69e4f8c181550f1cb82f, type: 3}
+  m_BakedTexture: {fileID: 8900000, guid: d6f037e907a7f824493962c3328fb539, type: 3}
   m_CustomTexture: {fileID: 0}
   m_BakedRenderData:
     m_WorldToCameraRHS:
